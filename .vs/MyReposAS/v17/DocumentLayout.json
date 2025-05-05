@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\JOB2\\xLab\\MyReposAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{296A2B07-305C-C241-8937-1CE8E034B65B}|Assembly-CSharp.csproj|f:\\job2\\xlab\\myreposas\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296A2B07-305C-C241-8937-1CE8E034B65B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296A2B07-305C-C241-8937-1CE8E034B65B}|Assembly-CSharp.csproj|f:\\job2\\xlab\\myreposas\\assets\\scripts\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296A2B07-305C-C241-8937-1CE8E034B65B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296A2B07-305C-C241-8937-1CE8E034B65B}|Assembly-CSharp.csproj|f:\\job2\\xlab\\myreposas\\assets\\scripts\\spawners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296A2B07-305C-C241-8937-1CE8E034B65B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296A2B07-305C-C241-8937-1CE8E034B65B}|Assembly-CSharp.csproj|f:\\job2\\xlab\\myreposas\\assets\\scripts\\stone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296A2B07-305C-C241-8937-1CE8E034B65B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296A2B07-305C-C241-8937-1CE8E034B65B}|Assembly-CSharp.csproj|f:\\job2\\xlab\\myreposas\\assets\\scripts\\stick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296A2B07-305C-C241-8937-1CE8E034B65B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stone.cs",
+              "DocumentMoniker": "F:\\JOB2\\xLab\\MyReposAS\\Assets\\Scripts\\Stone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Stone.cs",
+              "ToolTip": "F:\\JOB2\\xLab\\MyReposAS\\Assets\\Scripts\\Stone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Stone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:21:13.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stick.cs",
+              "DocumentMoniker": "F:\\JOB2\\xLab\\MyReposAS\\Assets\\Scripts\\Stick.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Stick.cs",
+              "ToolTip": "F:\\JOB2\\xLab\\MyReposAS\\Assets\\Scripts\\Stick.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Stick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:16:15.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Spawners.cs",
+              "DocumentMoniker": "F:\\JOB2\\xLab\\MyReposAS\\Assets\\Scripts\\Spawners.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawners.cs",
+              "ToolTip": "F:\\JOB2\\xLab\\MyReposAS\\Assets\\Scripts\\Spawners.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawners.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:16:14.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "F:\\JOB2\\xLab\\MyReposAS\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "F:\\JOB2\\xLab\\MyReposAS\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:16:14.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevelController.cs",
+              "DocumentMoniker": "F:\\JOB2\\xLab\\MyReposAS\\Assets\\Scripts\\LevelController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelController.cs",
+              "ToolTip": "F:\\JOB2\\xLab\\MyReposAS\\Assets\\Scripts\\LevelController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:15:41.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
