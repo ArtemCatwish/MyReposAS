@@ -3,23 +3,35 @@
   "WorkspaceRootPath": "F:\\JOB2\\xLab\\MyReposAS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{296A2B07-305C-C241-8937-1CE8E034B65B}|Assembly-CSharp.csproj|f:\\job2\\xlab\\myreposas\\assets\\scripts\\state\\mainmenustate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296A2B07-305C-C241-8937-1CE8E034B65B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\state\\mainmenustate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{296A2B07-305C-C241-8937-1CE8E034B65B}|Assembly-CSharp.csproj|f:\\job2\\xlab\\myreposas\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{296A2B07-305C-C241-8937-1CE8E034B65B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{296A2B07-305C-C241-8937-1CE8E034B65B}|Assembly-CSharp.csproj|f:\\job2\\xlab\\myreposas\\assets\\scripts\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{296A2B07-305C-C241-8937-1CE8E034B65B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\JOB2\\xLab\\MyReposAS\\Assets\\Scripts\\LevelController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\LevelController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{296A2B07-305C-C241-8937-1CE8E034B65B}|Assembly-CSharp.csproj|f:\\job2\\xlab\\myreposas\\assets\\scripts\\spawners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{296A2B07-305C-C241-8937-1CE8E034B65B}|Assembly-CSharp.csproj|f:\\job2\\xlab\\myreposas\\assets\\scripts\\state\\gameplaystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296A2B07-305C-C241-8937-1CE8E034B65B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\state\\gameplaystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296A2B07-305C-C241-8937-1CE8E034B65B}|Assembly-CSharp.csproj|f:\\job2\\xlab\\myreposas\\assets\\scripts\\state\\gameoverstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296A2B07-305C-C241-8937-1CE8E034B65B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\state\\gameoverstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296A2B07-305C-C241-8937-1CE8E034B65B}|Assembly-CSharp.csproj|F:\\JOB2\\xLab\\MyReposAS\\assets\\scripts\\spawners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{296A2B07-305C-C241-8937-1CE8E034B65B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{296A2B07-305C-C241-8937-1CE8E034B65B}|Assembly-CSharp.csproj|f:\\job2\\xlab\\myreposas\\assets\\scripts\\stone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{296A2B07-305C-C241-8937-1CE8E034B65B}|Assembly-CSharp.csproj|F:\\JOB2\\xLab\\MyReposAS\\assets\\scripts\\stone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{296A2B07-305C-C241-8937-1CE8E034B65B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{296A2B07-305C-C241-8937-1CE8E034B65B}|Assembly-CSharp.csproj|f:\\job2\\xlab\\myreposas\\assets\\scripts\\stick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{296A2B07-305C-C241-8937-1CE8E034B65B}|Assembly-CSharp.csproj|F:\\JOB2\\xLab\\MyReposAS\\assets\\scripts\\stick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{296A2B07-305C-C241-8937-1CE8E034B65B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,11 +42,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "GamePlayState.cs",
+              "DocumentMoniker": "F:\\JOB2\\xLab\\MyReposAS\\Assets\\Scripts\\State\\GamePlayState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\State\\GamePlayState.cs",
+              "ToolTip": "F:\\JOB2\\xLab\\MyReposAS\\Assets\\Scripts\\State\\GamePlayState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\State\\GamePlayState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:29:28.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenuState.cs",
+              "DocumentMoniker": "F:\\JOB2\\xLab\\MyReposAS\\Assets\\Scripts\\State\\MainMenuState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\State\\MainMenuState.cs",
+              "ToolTip": "F:\\JOB2\\xLab\\MyReposAS\\Assets\\Scripts\\State\\MainMenuState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\State\\MainMenuState.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:27:42.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameOverState.cs",
+              "DocumentMoniker": "F:\\JOB2\\xLab\\MyReposAS\\Assets\\Scripts\\State\\GameOverState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\State\\GameOverState.cs",
+              "ToolTip": "F:\\JOB2\\xLab\\MyReposAS\\Assets\\Scripts\\State\\GameOverState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\State\\GameOverState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:21:22.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Stone.cs",
               "DocumentMoniker": "F:\\JOB2\\xLab\\MyReposAS\\Assets\\Scripts\\Stone.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Stone.cs",
@@ -42,12 +93,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Stone.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T10:21:13.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T10:21:13.125Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Stick.cs",
               "DocumentMoniker": "F:\\JOB2\\xLab\\MyReposAS\\Assets\\Scripts\\Stick.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Stick.cs",
@@ -55,12 +105,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Stick.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T10:16:15.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T10:16:15.211Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Spawners.cs",
               "DocumentMoniker": "F:\\JOB2\\xLab\\MyReposAS\\Assets\\Scripts\\Spawners.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Spawners.cs",
@@ -68,34 +117,31 @@
               "RelativeToolTip": "Assets\\Scripts\\Spawners.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T10:16:14.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T10:16:14.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Player.cs",
               "DocumentMoniker": "F:\\JOB2\\xLab\\MyReposAS\\Assets\\Scripts\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
               "ToolTip": "F:\\JOB2\\xLab\\MyReposAS\\Assets\\Scripts\\Player.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T10:16:14.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LevelController.cs",
               "DocumentMoniker": "F:\\JOB2\\xLab\\MyReposAS\\Assets\\Scripts\\LevelController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LevelController.cs",
               "ToolTip": "F:\\JOB2\\xLab\\MyReposAS\\Assets\\Scripts\\LevelController.cs",
               "RelativeToolTip": "Assets\\Scripts\\LevelController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwCkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T10:15:41.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T10:15:41.564Z"
             }
           ]
         }
